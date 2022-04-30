@@ -10,7 +10,7 @@
 150 z=int(25+fna(sqr(x*x+y*y))-.7*y)
 160 if z<=l then 190
 170 l=z
-180 print tab(z);"";
+180 print tab(z);"*";
 190 next y
 200 print
 210 next x
