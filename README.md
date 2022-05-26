@@ -1,4 +1,3 @@
 # Commodore_games
-Couple of games for my Commodore64 vintage edition
-
+Work in progress repository of BASIC games for my vintage Commodore64
 - https://retrogamestart.com/answers/learn-commodore-64-basic-programming-type-text-based-games
